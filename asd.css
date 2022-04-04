@@ -4,7 +4,6 @@ h2{background: aqua}
 p{color: blue}
 li{color: blue}
 p{text-align: center}
-body{text-align: center}
-
-
-
+body{text-align:center;padding:0}
+h1{margin:0}
+ul{text-align:left}
