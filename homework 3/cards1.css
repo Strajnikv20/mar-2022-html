@@ -1,0 +1,60 @@
+body {
+    margin: 0
+}
+
+.father {
+    height: 1000px;
+    width: 100%;
+    background: silver;
+}
+
+.header {
+    width: 100%;
+    height: 200px;
+    background: silver;
+    display: flex;
+    box-sizing: border-box;
+    justify-content:space-between;
+}
+
+.content {
+    width: 100%;
+    height: 550px;
+    background: midnightblue;
+}
+
+.footer {
+    width: 100%;
+    height: 250px;
+    background: silver;
+    flex-direction: row;
+    display: flex;
+    justify-content: center;
+}
+
+.box {
+    height: 60px;
+    width: 180px;
+    background: midnightblue;
+    margin-left: 100px;
+    border-radius: 10%;
+    margin-top: 70px
+}
+
+.fa-chart-simple, .fa-magnifying-glass {
+    font-size: 50px;
+    padding-top: 70px;margin: 10px}
+
+
+
+.ghost {
+    height: 200px;
+    width: 200px;
+    background: slateblue;
+    margin: 10px;
+    position: relative;
+    margin-top: -100px;
+    border-radius: 10%;
+}
+.img-container{padding-right: 100px}
+

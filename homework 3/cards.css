@@ -1,0 +1,57 @@
+.father {
+    width: 100%;
+    height: 800px;
+    background: silver;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+
+}
+
+.box {
+    height: 400px;
+    width: 300px;
+    background: silver;
+    margin: 20px;
+    border: solid black 1px;
+    text-align: center;
+}
+
+.colo {
+    height: 100px;
+    width: 100px;
+    background: silver;
+    border-radius: 50%;
+    margin-top: -50px;
+    margin-left: 90px;
+    border: solid 1px black;
+    display: flex;
+    align-items: center;
+}
+
+.fa-martini-glass, .fa-bitcoin, .fa-desktop {
+    font-size: 40px;
+    margin-left: 30px;
+    color: saddlebrown
+}
+
+h1 {
+    text-align: center
+}
+
+p {
+    font-size: 30px;
+    font-family:"Ink Free";
+}
+
+.learn {
+    font-size: 25px;
+    height: 40px;
+    width: 180px;
+    background: silver;
+    margin-left: 60px;
+    border: solid 1px black;
+    padding-top: 15px;
+}
