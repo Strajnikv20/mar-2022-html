@@ -1,0 +1,14 @@
+@media screen and (max-width: 1000px) {
+    .naz {
+        flex-direction: column;
+    }
+    .box-6{
+        width: 100%;}
+    .h{
+        width: 100%;background: black}
+    .a{background: red}
+
+
+}
+
+
