@@ -48,7 +48,7 @@
 // document.write(ccc+" ")
 // let book = {
 //     name:"kniga",
-//     pageCount:100,
+//     pageCount:150,
 //     janr:"drama",
 //     authors:["user","user1","user2"]
 // }
