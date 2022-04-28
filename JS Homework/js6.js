@@ -168,3 +168,16 @@
 // }
 //
 // document.write(foo(arr))
+
+// let myarray = [
+//     {id: `one`},
+//     {id: `two`},
+// ];
+//
+// let foo = (myarray) => {
+//     let first = myarray[0];
+//     myarray[0] = myarray[1];
+//     myarray[1] = first;
+// }
+// foo(myarray);
+// console.log(myarray);
