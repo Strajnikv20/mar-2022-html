@@ -47,10 +47,11 @@
 // console.log(typeof (a));
 // console.log(typeof (b));
 // console.log(typeof (c));
-// let a = prompt(`Your firstname?`,`Volodymyr`)
-// console.log(a);
-// let b = prompt(`your middlename?`,`Ruslanovich`)
-// console.log(b);
-// let c = prompt(`your last name?`,`Lemeshchuk`)
-// console.log(c);
-
+let a = prompt(`Your firstname?`,`Volodymyr`)
+console.log(a);
+let b = prompt(`your middlename?`,`Ruslanovich`)
+console.log(b);
+let c = prompt(`your last name?`,`Lemeshchuk`)
+console.log(c);
+let d = +prompt(`your age?`,`22`);
+console.log(d);
